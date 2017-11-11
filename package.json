@@ -1,0 +1,19 @@
+{
+  "name": "gladys-allocine",
+  "version": "0.0.1",
+  "description": "Gladys Allociné",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "allociné",
+    "ciné"
+  ],
+  "author": "Pjap93",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "jsdom": "^11.1.0"
+  }
+}
